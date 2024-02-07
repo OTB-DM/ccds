@@ -6,6 +6,7 @@
 ``` bash
 python -m venv venv
 source venv/bin/activate
+# venv\Scripts\activate  - for Windows
 pip install cookiecutter
 cookiecutter https://bitbucket.gnivc.ru/scm/ckml/ds_template.git
 deactivate
