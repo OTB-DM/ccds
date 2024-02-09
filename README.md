@@ -20,7 +20,6 @@ The resulting directory structure
 The directory structure of your new project looks like this: 
 
 ```
-├── LICENSE
 ├── README.md          <- The top-level README for developers using this project.
 ├── data
 │   ├── external       <- Data from third party sources.
